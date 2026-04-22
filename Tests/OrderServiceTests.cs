@@ -9,7 +9,6 @@ using ATEA_test.API.Services;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using AutoMapper;
 using Microsoft.Extensions.DependencyInjection;
 using ATEA_test.API.DependencyInjection;
 using ATEA_test.API.AutoMapperSetup;

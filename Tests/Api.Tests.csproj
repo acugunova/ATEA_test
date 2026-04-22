@@ -16,8 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\API\ATEA_test.csproj" />
-    <ProjectReference Include="..\ATEA_test.csproj" />
+    <ProjectReference Include="..\API\Backend.csproj" />
   </ItemGroup>
 
 </Project>
